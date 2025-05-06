@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "RcmdrPlugin.aRnova"]
 	path = RcmdrPlugin.aRnova
-	url = https://github.com/cran/RcmdrPlugin.aRnova
+	url = https://github.com/atravert/rcmdrplugin.arnova
